@@ -1,2 +1,2 @@
-mute=no
 volume=100.000000
+mute=no
